@@ -9,14 +9,21 @@
 } */
 
 .body {
-    background-image: url('../img/frivold.jpg');
+   /* background-image: url('../img/frivold.jpg');*/
+    background: #B363EB;
+    background: -webkit-radial-gradient(center, #B363EB, #AD3D49);
+    background: -moz-radial-gradient(center, #B363EB, #AD3D49);
+    background: radial-gradient(ellipse at center, #B363EB, #AD3D49);
     background-position: center, center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
+    
 }
 
 h1 {
     font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    text-align: center;
 
 }
