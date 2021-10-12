@@ -21,9 +21,33 @@
     
 }
 
+header {
+
+    font-family: 'Poppins', sans-serif, italic;
+    text-align: left;
+}
+
 h1 {
     font-family: 'Poppins', sans-serif;
     color: whitesmoke;
     text-align: center;
 
 }
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
