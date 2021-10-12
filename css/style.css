@@ -34,12 +34,24 @@ h1 {
 
 }
 
-h2 {
-
+.mySchool {
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
 }
 
-h3 {
+.myWork {
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+}
 
+.whatIKnow {
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+}
+
+.currentlyLearning {
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
 }
 
 .footer {
