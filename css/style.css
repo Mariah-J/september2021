@@ -203,7 +203,8 @@ h1 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
+    background-color: inherit;
     color: white;
     text-align: center;
+    font-family: Montserrat, sans-serif;
   }
