@@ -117,6 +117,41 @@ h1 {
     background-attachment: fixed;
 }
 
+.educationBody {
+  background: #B363EB;
+  background: -webkit-radial-gradient(center, #B363EB, #AD3D49);
+  background: -moz-radial-gradient(center, #B363EB, #AD3D49);
+  background: radial-gradient(ellipse at center, #B363EB, #AD3D49);
+  background-position: center, center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+
+}
+
+.projectsBody {
+  background: #B363EB;
+  background: -webkit-radial-gradient(center, #B363EB, #AD3D49);
+  background: -moz-radial-gradient(center, #B363EB, #AD3D49);
+  background: radial-gradient(ellipse at center, #B363EB, #AD3D49);
+  background-position: center, center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+.employmentBody {
+  background: #B363EB;
+  background: -webkit-radial-gradient(center, #B363EB, #AD3D49);
+  background: -moz-radial-gradient(center, #B363EB, #AD3D49);
+  background: radial-gradient(ellipse at center, #B363EB, #AD3D49);
+  background-position: center, center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+
 .mySchool {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
