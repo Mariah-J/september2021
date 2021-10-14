@@ -135,10 +135,10 @@ h1 {
 }
 
 .projectsBody {
-  background: #B363EB;
-  background: -webkit-radial-gradient(center, #B363EB, #AD3D49);
-  background: -moz-radial-gradient(center, #B363EB, #AD3D49);
-  background: radial-gradient(ellipse at center, #B363EB, #AD3D49);
+  background: #A514B0;
+  background: -webkit-radial-gradient(bottom, #A514B0, #000000);
+  background: -moz-radial-gradient(bottom, #A514B0, #000000);
+  background: radial-gradient(to top, #A514B0, #000000);
   background-position: center, center;
   background-repeat: no-repeat;
   background-size: contain;
