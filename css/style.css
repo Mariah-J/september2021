@@ -18,6 +18,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
+    border: 5px solid black;
     
 }
 
@@ -104,6 +105,8 @@ header {
 
 
 
+
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
@@ -161,15 +164,15 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
     display: flex;
-    justify-content: center;
-    align-content: flex-end;
+    flex-direction: column;
+
 }
 
 .myWork {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
 
 }
 
@@ -177,6 +180,7 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
     display: flex;
+    flex-direction: column;
 
 }
 
@@ -184,6 +188,7 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
     display: flex;
+    flex-direction: column;
 }
 
 .myBio {
