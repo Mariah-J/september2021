@@ -1,15 +1,4 @@
-
-
-/*background-image {
-
-    background-position: center, center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-} */
-
 .body {
-   /* background-image: url('../img/frivold.jpg');*/
     background: #B363EB;
     background: -webkit-radial-gradient(center, #B363EB, #AD3D49);
     background: -moz-radial-gradient(center, #B363EB, #AD3D49);
@@ -18,8 +7,8 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
-    border: 5px solid black;
-    
+    /*border: 5px solid black;*/
+    margin: 0;
 }
 
 /* Navbar container */
@@ -59,7 +48,7 @@
 
   /* Add a background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: goldenrod;
+    background-color: black;
   }
   
   /* Dropdown content (hidden by default) */
