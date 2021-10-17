@@ -90,12 +90,6 @@ header {
 }
 
 
-
-
-
-
-
-
 h1 {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
@@ -104,7 +98,8 @@ h1 {
 } 
 
 h2 {
-
+font-family: 'Montserrat', sans-serif;
+color: whitesmoke
 }
 
 .aboutBody {
@@ -116,6 +111,7 @@ h2 {
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
+    margin: 0;
 }
 
 .educationBody {
@@ -127,6 +123,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: fixed;
+  margin: 0;
 
 }
 
@@ -139,6 +136,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: fixed;
+  margin: 0;
 }
 
 .employmentBody {
@@ -150,6 +148,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: fixed;
+  margin: 0;
 }
 
 
@@ -194,7 +193,10 @@ h2 {
     color: whitesmoke;
 }
 
-
+.myProjects {
+  font-family: 'Montserrat', sans-serif;
+  color: whitesmoke;
+}
 
 .footer {
     position: fixed;
