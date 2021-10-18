@@ -99,7 +99,10 @@ h1 {
 
 h2 {
 font-family: 'Montserrat', sans-serif;
-color: whitesmoke
+color: whitesmoke;
+width: 300px;
+padding: 10px;
+background-color: black;
 }
 
 .aboutBody {
@@ -191,11 +194,15 @@ color: whitesmoke
 .myHobbies {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
+    display: flex;
+    flex-direction: column;
 }
 
 .myProjects {
   font-family: 'Montserrat', sans-serif;
   color: whitesmoke;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer {
