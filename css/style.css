@@ -102,6 +102,7 @@ color: whitesmoke;
 width: 300px;
 padding: 10px;
 background-color: black;
+margin: 0;
 }
 
 h3 {
@@ -157,6 +158,9 @@ h3 {
 .myBio {
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
 }
 
 .myHobbies {
