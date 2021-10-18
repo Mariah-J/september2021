@@ -104,7 +104,24 @@ padding: 10px;
 background-color: black;
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
 
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 .mySchool {
     font-family: 'Montserrat', sans-serif;
@@ -167,4 +184,10 @@ background-color: black;
     font-family: Montserrat, sans-serif;
     padding: 15px;
     background-color: black;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
   }
